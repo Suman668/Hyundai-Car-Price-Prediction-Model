@@ -10,6 +10,9 @@ The key features of the Car Price Prediction Model project will include data col
 
 The Car Price Prediction Model project aims to provide users with an accurate and reliable tool for predicting the selling price of their used cars. By leveraging the power of machine learning and data analysis, the project will help users make informed decisions about buying and selling cars, and it will help car dealerships and private sellers optimize their pricing strategies.
 
+# Tech stack used:
+### Python & Pandas (for data wrangling)
+### Pandas,Sklearn,Seaborn,Matplotib (for understanding data and building model).
 
 
 
